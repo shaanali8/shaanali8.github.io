@@ -1,5 +1,9 @@
-# Smart Work™ 
-### This GitHub repository hosts the source code for the personal website of Shaan Ali, a talented and passionate author. The website serves as a digital hub for showcasing the author's literary works, sharing insights into their creative process, and engaging with their readers and followers. 
+# Announcement 📢: People of the interwebs, Smart Work™ podcast drops on Aug 8th and book series launches Aug 11th. This has been a long time coming.
+
+### Please feel free to recommend any topics that you'd like us to cover via dms. This podcast is hosted by me and cohosted by my dear friend Terese Eriksen.
+
+### This GitHub repository hosts the source code for the personal website of Shaan A., a talented and passionate author. The website serves as a digital hub for showcasing the author's literary works, sharing insights into their creative process, and engaging with their readers and followers.
+
 #### Key Features:
 
 #### Portfolio of Works: The website features a dedicated section where visitors can explore the author's published books, novels, short stories, and any other written works. Each entry includes a brief description, cover images, and links to where readers can purchase or read the material.
