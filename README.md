@@ -1,6 +1,6 @@
-# Announcement 📢: People of the interwebs, Smart Work™ podcast drops on Aug 8th and book series launches Aug 11th. This has been a long time coming.
+# Announcement 📢: Dear people of the interweb, Smart Work™ podcast drops on Aug 8th and book series launches Aug 11th. This has been a long time coming.
 
-### Please feel free to recommend any topics that you'd like us to cover via dms. This podcast is hosted by me and cohosted by my dear friend Terese Eriksen.
+### Please feel free to recommend any topics that you'd like us to cover via dms. This podcast is hosted by me and cohosted by my friend Terese Eriksen.
 
 ### This GitHub repository hosts the source code for the personal website of Shaan A., a talented and passionate author. The website serves as a digital hub for showcasing the author's literary works, sharing insights into their creative process, and engaging with their readers and followers.
 
@@ -8,13 +8,13 @@
 
 #### Portfolio of Works: The website features a dedicated section where visitors can explore the author's published books, novels, short stories, and any other written works. Each entry includes a brief description, cover images, and links to where readers can purchase or read the material.
 
-#### About the Author: This section introduces the author, providing an inspiring and personal background story. It also includes a high-resolution author photo and details about their writing journey, influences, and aspirations.
+#### About the Author: This section introduces the author, providing an inspiring and personal background story.
 
 #### Blog and News: An integrated blog allows the author to share their thoughts, writing updates, and news related to upcoming book releases, events, or appearances. Readers can subscribe to stay up-to-date with the author's latest content.
 
 #### Contact and Social Media Integration: Visitors can get in touch with the author through a contact form or by reaching out via various social media platforms. Social media integration enables seamless interactions and encourages readers to follow the author's journey.
 
-#### Events and Book Signings: The website features an events calendar to showcase book signings, public appearances, and speaking engagements. Readers can find information about upcoming events and purchase signed copies of the author's books.
+#### Events and Book Signings: The website features an events calendar, public appearances, and speaking engagements. Readers can find information about upcoming events and purchase signed copies of the author's books.
 
 #### Newsletter Signup: Readers can subscribe to the author's newsletter to receive exclusive content, early access to new releases, and special offers.
 
