@@ -34,4 +34,3 @@ Contributions to the website are welcome via pull requests, bug reports, or feat
 #### License:
 The repository is open-source and licensed under the MIT License, allowing others to use, modify, and distribute the code for their personal use or contribute to its development.
 
-#### Note: This description is a general template for a personal author website repository on GitHub. The actual content and features may vary depending on the author's preferences, writing style, and specific goals for their website.
